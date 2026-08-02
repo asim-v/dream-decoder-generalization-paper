@@ -23,7 +23,7 @@ Install [Tectonic](https://tectonic-typesetting.github.io/) and run:
 tectonic --keep-logs --keep-intermediates main.tex
 ```
 
-The author field is currently an anonymous placeholder and should be replaced before submission.
+Author: Javier Emilio Bazán Sánchez (`bazan@ciencias.unam.mx`).
 
 ## Source study
 
