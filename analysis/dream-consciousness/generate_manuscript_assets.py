@@ -231,7 +231,7 @@ def generate(results_dir: Path, legacy_dir: Path, destination: Path) -> None:
         composition_rows.append(
             f"{row.stage} & {row.display_name}{flag} & {int(row.participants)} & "
             f"{int(row.records)} & {int(row.experience)} & {int(row.no_experience)} & "
-            f"{100 * row.experience_prevalence:.1f}\\% \\\\" 
+            f"{100 * row.experience_prevalence:.1f}\\% \\\\"
         )
     composition_rows.append(r"\bottomrule")
     (destination / "generated_composition_rows.tex").write_text(
