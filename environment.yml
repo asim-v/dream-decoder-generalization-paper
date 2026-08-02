@@ -1,0 +1,16 @@
+name: dream-validation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - tectonic
+  - pip:
+      - mne==1.12.1
+      - numpy==2.2.6
+      - scipy==1.15.3
+      - scikit-learn==1.7.2
+      - matplotlib==3.10.9
+      - pandas==2.3.3
+      - pycatch22==0.4.5
+      - xgboost==3.2.0

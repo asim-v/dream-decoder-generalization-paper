@@ -1,0 +1,41 @@
+stage,feature_family,baseline,weighting,estimand,estimate,ci_low,ci_high,valid_bootstraps
+NREM,PSD (published),record_prevalence,record,pooled,-0.030172258592471524,-0.09245331456596903,0.026357372146243504,2000
+NREM,PSD (published),record_prevalence,record,site_macro,0.12409960817415716,0.061901178550835004,0.17593593431273832,2000
+NREM,PSD (published),record_prevalence,record,within_pair_weighted,0.08635453112897623,0.03505137905658285,0.13483791830398914,2000
+NREM,PSD (published),record_prevalence,record,site_macro_fold_conditioned,0.024009375125496835,-0.02712432071919474,0.07685556924918253,2000
+NREM,PSD (published),record_prevalence,record,within_pair_weighted_fold_conditioned,0.008910814447845139,-0.028987768141784137,0.05140987871304446,2000
+NREM,PSD (published),participant_prevalence,record,pooled,-0.012976268412438707,-0.07148842294848995,0.04119390351121711,2000
+NREM,PSD (published),participant_prevalence,record,site_macro,0.11407012378366499,0.057326616420735735,0.16485164565078408,2000
+NREM,PSD (published),participant_prevalence,record,within_pair_weighted,0.07527376405544722,0.031670864029556295,0.11639795480902718,2000
+NREM,PSD (published),participant_prevalence,record,site_macro_fold_conditioned,0.024009375125496835,-0.02712432071919474,0.07685556924918253,2000
+NREM,PSD (published),participant_prevalence,record,within_pair_weighted_fold_conditioned,0.008910814447845139,-0.028987768141784137,0.05140987871304446,2000
+NREM,PSD (published),record_prevalence,participant_equal,pooled,0.019078315418074365,-0.04726480066945907,0.08436394514889815,2000
+NREM,PSD (published),record_prevalence,participant_equal,site_macro,0.11648499020546982,0.06032426875405968,0.1686823032757429,2000
+NREM,PSD (published),record_prevalence,participant_equal,within_pair_weighted,0.11162531281370253,0.050949568099296266,0.16738014558922165,2000
+NREM,PSD (published),record_prevalence,participant_equal,site_macro_fold_conditioned,0.02032727693178893,-0.030639871982108338,0.07608027087469393,2000
+NREM,PSD (published),record_prevalence,participant_equal,within_pair_weighted_fold_conditioned,0.01652416775207255,-0.03565829514116696,0.07390395932410766,2000
+NREM,PSD (published),participant_prevalence,participant_equal,pooled,0.032352127143439935,-0.03340587411304254,0.09773337329885076,2000
+NREM,PSD (published),participant_prevalence,participant_equal,site_macro,0.12391874246815993,0.0653601466679558,0.17566318394694058,2000
+NREM,PSD (published),participant_prevalence,participant_equal,within_pair_weighted,0.11768782628380176,0.05418920109891647,0.17513027018309882,2000
+NREM,PSD (published),participant_prevalence,participant_equal,site_macro_fold_conditioned,0.02032727693178893,-0.030639871982108338,0.07608027087469393,2000
+NREM,PSD (published),participant_prevalence,participant_equal,within_pair_weighted_fold_conditioned,0.01652416775207255,-0.03565829514116696,0.07390395932410766,2000
+REM,Catch22 filtered (adapted),record_prevalence,record,pooled,-0.05825220933443798,-0.11583977380223306,6.532814956207313e-05,2000
+REM,Catch22 filtered (adapted),record_prevalence,record,site_macro,0.1965751503748287,0.13371224896418532,0.26571736241703636,2000
+REM,Catch22 filtered (adapted),record_prevalence,record,within_pair_weighted,0.12648480662983425,0.06873303515427605,0.19794982831887964,2000
+REM,Catch22 filtered (adapted),record_prevalence,record,site_macro_fold_conditioned,0.0553512775897973,0.002198123879302183,0.14423953751688923,2000
+REM,Catch22 filtered (adapted),record_prevalence,record,within_pair_weighted_fold_conditioned,0.05166796343123903,0.001103462496340497,0.14304093056496978,2000
+REM,Catch22 filtered (adapted),participant_prevalence,record,pooled,-0.06004901960784326,-0.11686225340827008,-0.0026956734745125833,2000
+REM,Catch22 filtered (adapted),participant_prevalence,record,site_macro,0.19733824831798186,0.13491283166226492,0.2695182532391408,2000
+REM,Catch22 filtered (adapted),participant_prevalence,record,within_pair_weighted,0.12342311233885822,0.06824704556404515,0.19103060754604875,2000
+REM,Catch22 filtered (adapted),participant_prevalence,record,site_macro_fold_conditioned,0.0553512775897973,0.002198123879302183,0.14423953751688923,2000
+REM,Catch22 filtered (adapted),participant_prevalence,record,within_pair_weighted_fold_conditioned,0.05166796343123903,0.001103462496340497,0.14304093056496978,2000
+REM,Catch22 filtered (adapted),record_prevalence,participant_equal,pooled,0.051807092270484634,-0.03194907362421347,0.130758539639827,2000
+REM,Catch22 filtered (adapted),record_prevalence,participant_equal,site_macro,0.21402543974047367,0.1525796853495184,0.2769465189733385,2000
+REM,Catch22 filtered (adapted),record_prevalence,participant_equal,within_pair_weighted,0.23764466695218395,0.13510545557283585,0.3413941615443829,2000
+REM,Catch22 filtered (adapted),record_prevalence,participant_equal,site_macro_fold_conditioned,0.07363714392468679,0.016327308078193676,0.15133286373848942,2000
+REM,Catch22 filtered (adapted),record_prevalence,participant_equal,within_pair_weighted_fold_conditioned,0.10111829269401573,-0.003734244025309749,0.2022123103292282,2000
+REM,Catch22 filtered (adapted),participant_prevalence,participant_equal,pooled,0.04470532295077634,-0.03693767022292493,0.1233558675790117,2000
+REM,Catch22 filtered (adapted),participant_prevalence,participant_equal,site_macro,0.22103031096549236,0.15568207945815116,0.28311226247560745,2000
+REM,Catch22 filtered (adapted),participant_prevalence,participant_equal,within_pair_weighted,0.24088447919385697,0.13817802836370233,0.34652760365374596,2000
+REM,Catch22 filtered (adapted),participant_prevalence,participant_equal,site_macro_fold_conditioned,0.07363714392468679,0.016327308078193676,0.15133286373848942,2000
+REM,Catch22 filtered (adapted),participant_prevalence,participant_equal,within_pair_weighted_fold_conditioned,0.10111829269401573,-0.003734244025309749,0.2022123103292282,2000

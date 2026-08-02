@@ -1,0 +1,6 @@
+dataset,records,edf_files,strict_usable,no_experience,experience,subjects,nrem_strict,rem_strict,actual_delimiter,code_delimiter,delimiter_matches,expected_channels,channels_found,formatted_edfs_expected_by_code,formatted_edfs_found,missing_edfs,extra_edfs,sample_sfreq,sample_channels
+Zhang_Wamsley_2019,308,308,308,70,238,28,186,26,",",",",True,F4-REF|C4-REF|O2-REF|A1-REF|A2-REF,True,False,0,,,400.0,63
+DeGenearoMA,455,455,435,121,314,19,281,154,",",;,False,F4|C4|O2,True,False,0,,,250.0,32
+DeGenaro_YoungAdults,65,62,62,24,38,62,32,30,",",",",True,F4|C4|O2,True,False,0,DG05.edf|DG41.edf|DM02.edf,,128.0,21
+SiclariMA,287,287,231,107,124,39,231,0,",",",",True,F4-M1|C4-M1|O2-M1,False,True,0,,,500.0,257
+rem_Turku,134,133,125,3,122,18,0,125,",",",",True,F4|C4|O2,True,False,0,case133_s27.edf,,500.0,29

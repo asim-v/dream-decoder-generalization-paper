@@ -1,0 +1,9 @@
+stage,dataset,display_name,participants,records,experience,no_experience,experience_prevalence,records_per_participant_median,records_per_participant_min,records_per_participant_max,within_site_flag
+NREM,DeGenaro_YoungAdults,Young Adults,32,32,18,14,0.5625,1.0,1,1,
+NREM,DeGenearoMA,Multiple Awakenings,19,281,189,92,0.6725978647686833,14.0,7,25,
+NREM,SiclariMA,Siclari,39,231,124,107,0.5367965367965368,6.0,2,11,
+NREM,Zhang_Wamsley_2019,Zhang,27,186,139,47,0.7473118279569892,7.0,2,13,
+REM,DeGenaro_YoungAdults,Young Adults,30,30,20,10,0.6666666666666666,1.0,1,1,
+REM,DeGenearoMA,Multiple Awakenings,19,154,125,29,0.8116883116883117,8.0,2,16,
+REM,Zhang_Wamsley_2019,Zhang,20,26,17,9,0.6538461538461539,1.0,1,2,
+REM,rem_Turku,Turku,18,125,122,3,0.976,7.0,2,12,minority_class_lt_5

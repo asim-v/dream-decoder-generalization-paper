@@ -1,0 +1,328 @@
+{
+  "retrieved": "2026-08-02",
+  "articles": [
+    {
+      "dataset": "degen_ma",
+      "article_id": 22086266,
+      "version": 2,
+      "doi": "10.6084/m9.figshare.22086266.v2",
+      "license": "CC BY 4.0",
+      "files": [
+        {
+          "id": 62751148,
+          "name": "Multiple awakenings.zip",
+          "size": 6395662397,
+          "md5": "3837aa488699ef187d8ad21f763dfc0c",
+          "download_url": "https://ndownloader.figshare.com/files/62751148"
+        }
+      ]
+    },
+    {
+      "dataset": "oudiette",
+      "article_id": 22210684,
+      "version": 1,
+      "doi": "10.6084/m9.figshare.22210684.v1",
+      "license": "CC BY 4.0",
+      "files": [
+        {
+          "id": 39472774,
+          "name": "Oudiette_N1Data.zip",
+          "size": 43261557,
+          "md5": "176b7a5de4f3c0bea0a90891889bd954",
+          "download_url": "https://ndownloader.figshare.com/files/39472774"
+        }
+      ]
+    },
+    {
+      "dataset": "siclari",
+      "article_id": 23306054,
+      "version": 3,
+      "doi": "10.26180/23306054.v3",
+      "license": "CC BY 4.0",
+      "files": [
+        {
+          "id": 59168237,
+          "name": "Tononi Serial Awakenings-Part1-No_PSGs.zip",
+          "size": 384182,
+          "md5": "6c462e696af37ed08be663cb0897ca90",
+          "download_url": "https://ndownloader.figshare.com/files/59168237"
+        },
+        {
+          "id": 41090870,
+          "name": "Tononi Serial Awakenings-Part2-s01_PSGs.zip",
+          "size": 174803546,
+          "md5": "df8106d9654ae3563edce83adac84fb7",
+          "download_url": "https://ndownloader.figshare.com/files/41090870"
+        },
+        {
+          "id": 41091467,
+          "name": "Tononi Serial Awakenings-Part3-s02_PSGs.zip",
+          "size": 285927670,
+          "md5": "8d7c56d9728ec75c448cb1bfc2a437a2",
+          "download_url": "https://ndownloader.figshare.com/files/41091467"
+        },
+        {
+          "id": 41091458,
+          "name": "Tononi Serial Awakenings-Part4-s03_PSGs.zip",
+          "size": 234983735,
+          "md5": "b09300860a14a28cb3132e04403db1c3",
+          "download_url": "https://ndownloader.figshare.com/files/41091458"
+        },
+        {
+          "id": 41091452,
+          "name": "Tononi Serial Awakenings-Part5-s04_PSGs.zip",
+          "size": 228248384,
+          "md5": "d00a50ad22cb0dfcc90dc8b897194fb4",
+          "download_url": "https://ndownloader.figshare.com/files/41091452"
+        },
+        {
+          "id": 41091578,
+          "name": "Tononi Serial Awakenings-Part6-s05_PSGs.zip",
+          "size": 176815256,
+          "md5": "491c88c426d00622dff87448b418e7f0",
+          "download_url": "https://ndownloader.figshare.com/files/41091578"
+        },
+        {
+          "id": 41091584,
+          "name": "Tononi Serial Awakenings-Part7-s06_PSGs.zip",
+          "size": 144796818,
+          "md5": "0c11d5a7393224b9a6c2a1851eb0ea91",
+          "download_url": "https://ndownloader.figshare.com/files/41091584"
+        },
+        {
+          "id": 41091455,
+          "name": "Tononi Serial Awakenings-Part8-s07_PSGs.zip",
+          "size": 177726581,
+          "md5": "4b7e5dd5c39af49a38b403f50a2f409d",
+          "download_url": "https://ndownloader.figshare.com/files/41091455"
+        },
+        {
+          "id": 41091449,
+          "name": "Tononi Serial Awakenings-Part9-s08_PSGs.zip",
+          "size": 203469419,
+          "md5": "5c35c8de4bd823471d97bff3e2372a10",
+          "download_url": "https://ndownloader.figshare.com/files/41091449"
+        },
+        {
+          "id": 41091464,
+          "name": "Tononi Serial Awakenings-Part10-s09_PSGs.zip",
+          "size": 224310244,
+          "md5": "9af13389ccd856ef7a609706144a931c",
+          "download_url": "https://ndownloader.figshare.com/files/41091464"
+        },
+        {
+          "id": 41091470,
+          "name": "Tononi Serial Awakenings-Part11-s10_PSGs.zip",
+          "size": 144221748,
+          "md5": "9de6ff6850957d66d8d9e50f82ebe575",
+          "download_url": "https://ndownloader.figshare.com/files/41091470"
+        },
+        {
+          "id": 41091461,
+          "name": "Tononi Serial Awakenings-Part12-s11_PSGs.zip",
+          "size": 175430096,
+          "md5": "dae92dce0f4eb6d263307718f9bc6123",
+          "download_url": "https://ndownloader.figshare.com/files/41091461"
+        },
+        {
+          "id": 41090909,
+          "name": "Tononi Serial Awakenings-Part13-s12_PSGs.zip",
+          "size": 176694473,
+          "md5": "590af30a23b9533e57be3ad0b0bf6006",
+          "download_url": "https://ndownloader.figshare.com/files/41090909"
+        },
+        {
+          "id": 41090912,
+          "name": "Tononi Serial Awakenings-Part14-s13_PSGs.zip",
+          "size": 175050735,
+          "md5": "af2ed314531a69587771e0cd1705f6d5",
+          "download_url": "https://ndownloader.figshare.com/files/41090912"
+        },
+        {
+          "id": 41090915,
+          "name": "Tononi Serial Awakenings-Part15-s14_PSGs.zip",
+          "size": 174425502,
+          "md5": "80bd2713dbe8d4ed0e4db1d888bb8248",
+          "download_url": "https://ndownloader.figshare.com/files/41090915"
+        },
+        {
+          "id": 41090918,
+          "name": "Tononi Serial Awakenings-Part16-s15_PSGs.zip",
+          "size": 175996070,
+          "md5": "0677b1f1e2e9871a0c286e646ced4733",
+          "download_url": "https://ndownloader.figshare.com/files/41090918"
+        },
+        {
+          "id": 41090924,
+          "name": "Tononi Serial Awakenings-Part17-s16_PSGs.zip",
+          "size": 235569116,
+          "md5": "9203dbc54fad2febe1e08735a739a069",
+          "download_url": "https://ndownloader.figshare.com/files/41090924"
+        },
+        {
+          "id": 41090927,
+          "name": "Tononi Serial Awakenings-Part18-s17_PSGs.zip",
+          "size": 204803408,
+          "md5": "448208e26a6bbd5ee3dd1b2b40609b69",
+          "download_url": "https://ndownloader.figshare.com/files/41090927"
+        },
+        {
+          "id": 41090933,
+          "name": "Tononi Serial Awakenings-Part19-s18_PSGs.zip",
+          "size": 176483778,
+          "md5": "f8e1e3e382cadba00838f16c5e692092",
+          "download_url": "https://ndownloader.figshare.com/files/41090933"
+        },
+        {
+          "id": 41090936,
+          "name": "Tononi Serial Awakenings-Part20-s19_PSGs.zip",
+          "size": 234976026,
+          "md5": "1bef4337ca4357052c857bb2f3cbda26",
+          "download_url": "https://ndownloader.figshare.com/files/41090936"
+        },
+        {
+          "id": 41090939,
+          "name": "Tononi Serial Awakenings-Part21-s20_PSGs.zip",
+          "size": 176759994,
+          "md5": "03a94675d2d50556fd1c76dedc6c39e6",
+          "download_url": "https://ndownloader.figshare.com/files/41090939"
+        },
+        {
+          "id": 41090942,
+          "name": "Tononi Serial Awakenings-Part22-s21_PSGs.zip",
+          "size": 201857329,
+          "md5": "152435d8a9189f8b403cbe6c2499ca2e",
+          "download_url": "https://ndownloader.figshare.com/files/41090942"
+        },
+        {
+          "id": 41090945,
+          "name": "Tononi Serial Awakenings-Part23-s22_PSGs.zip",
+          "size": 144236672,
+          "md5": "0340224dc0051c4acb91fb977e9599e2",
+          "download_url": "https://ndownloader.figshare.com/files/41090945"
+        },
+        {
+          "id": 41090951,
+          "name": "Tononi Serial Awakenings-Part24-s23_PSGs.zip",
+          "size": 359415323,
+          "md5": "6070e7d65cf16978e8ba60a086910cdb",
+          "download_url": "https://ndownloader.figshare.com/files/41090951"
+        },
+        {
+          "id": 41090954,
+          "name": "Tononi Serial Awakenings-Part25-s24_PSGs.zip",
+          "size": 172236618,
+          "md5": "75f69e3733848b6c726ff80ebc763960",
+          "download_url": "https://ndownloader.figshare.com/files/41090954"
+        },
+        {
+          "id": 41090957,
+          "name": "Tononi Serial Awakenings-Part26-s25_PSGs.zip",
+          "size": 233448046,
+          "md5": "e5ed86d609a3d3afb814a084a04e3c51",
+          "download_url": "https://ndownloader.figshare.com/files/41090957"
+        },
+        {
+          "id": 41090960,
+          "name": "Tononi Serial Awakenings-Part27-s26_PSGs.zip",
+          "size": 162454006,
+          "md5": "51e0cd3909d4d502e0ba4ee0cb06df54",
+          "download_url": "https://ndownloader.figshare.com/files/41090960"
+        },
+        {
+          "id": 41090963,
+          "name": "Tononi Serial Awakenings-Part28-s27_PSGs.zip",
+          "size": 323549849,
+          "md5": "63d17448f1067f83e502884c7f0c3dda",
+          "download_url": "https://ndownloader.figshare.com/files/41090963"
+        },
+        {
+          "id": 41090966,
+          "name": "Tononi Serial Awakenings-Part29-s28_PSGs.zip",
+          "size": 224383593,
+          "md5": "d018cb7f41b3cdb02cd65388d9768352",
+          "download_url": "https://ndownloader.figshare.com/files/41090966"
+        },
+        {
+          "id": 41090969,
+          "name": "Tononi Serial Awakenings-Part30-s29_PSGs.zip",
+          "size": 352854374,
+          "md5": "8bea4cde99882b30bf2a83987a6a978c",
+          "download_url": "https://ndownloader.figshare.com/files/41090969"
+        },
+        {
+          "id": 41090972,
+          "name": "Tononi Serial Awakenings-Part31-s30_PSGs.zip",
+          "size": 267703383,
+          "md5": "621b0765a11f3fe6309714aee393111b",
+          "download_url": "https://ndownloader.figshare.com/files/41090972"
+        },
+        {
+          "id": 41090975,
+          "name": "Tononi Serial Awakenings-Part32-s31_PSGs.zip",
+          "size": 321751473,
+          "md5": "af34ec8ff5f18c3d98faeb7fbc24fab9",
+          "download_url": "https://ndownloader.figshare.com/files/41090975"
+        },
+        {
+          "id": 41090978,
+          "name": "Tononi Serial Awakenings-Part33-s32_PSGs.zip",
+          "size": 174011435,
+          "md5": "809d9e23d7db22c75e593254d859bc17",
+          "download_url": "https://ndownloader.figshare.com/files/41090978"
+        },
+        {
+          "id": 41090981,
+          "name": "Tononi Serial Awakenings-Part34-s33_PSGs.zip",
+          "size": 262979170,
+          "md5": "d8b66779f6e470da6e0a36d56aac88b5",
+          "download_url": "https://ndownloader.figshare.com/files/41090981"
+        },
+        {
+          "id": 41090984,
+          "name": "Tononi Serial Awakenings-Part35-s34_PSGs.zip",
+          "size": 175180599,
+          "md5": "7b4cf4e4395e04e28824d1fa7a83d6d0",
+          "download_url": "https://ndownloader.figshare.com/files/41090984"
+        },
+        {
+          "id": 41090990,
+          "name": "Tononi Serial Awakenings-Part36-s35_PSGs.zip",
+          "size": 292986841,
+          "md5": "5a5c14ff6b6430c2a38f33901571163e",
+          "download_url": "https://ndownloader.figshare.com/files/41090990"
+        },
+        {
+          "id": 41090993,
+          "name": "Tononi Serial Awakenings-Part37-s36_PSGs.zip",
+          "size": 207488061,
+          "md5": "e6f2b73bb960ad3a74067321d8107adb",
+          "download_url": "https://ndownloader.figshare.com/files/41090993"
+        },
+        {
+          "id": 59168246,
+          "name": "Tononi Serial Awakenings-Part38-s37_s38_s39_PSGs.zip",
+          "size": 630683780,
+          "md5": "71fcd73474dd931d0ac5f32cac75b9ce",
+          "download_url": "https://ndownloader.figshare.com/files/59168246"
+        }
+      ]
+    },
+    {
+      "dataset": "turku",
+      "article_id": 23274596,
+      "version": 2,
+      "doi": "10.6084/m9.figshare.23274596.v2",
+      "license": "CC BY 4.0",
+      "files": [
+        {
+          "id": 41028728,
+          "name": "REM_Turku.zip",
+          "size": 363436164,
+          "md5": "0e574fdcba4501d89c5e79b8ba63e11f",
+          "download_url": "https://ndownloader.figshare.com/files/41028728"
+        }
+      ]
+    }
+  ]
+}

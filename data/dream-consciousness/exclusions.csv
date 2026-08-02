@@ -1,0 +1,4 @@
+dataset,filename,reason,source_archive_md5
+Dream_YoungAdults,DG05.edf,CRC failure in the publisher-provided ZIP; partial extraction removed,f4fba4f3b78ce13d54ad424ed2c09aef
+Dream_YoungAdults,DG41.edf,CRC failure in the publisher-provided ZIP,f4fba4f3b78ce13d54ad424ed2c09aef
+Dream_YoungAdults,DM02.edf,CRC failure in the publisher-provided ZIP,f4fba4f3b78ce13d54ad424ed2c09aef

@@ -1,0 +1,13 @@
+{
+  "records_total": 1065,
+  "records_nrem": 730,
+  "records_rem": 335,
+  "repetitions": 20,
+  "feature_families": 7,
+  "participant_leakage": false,
+  "deterministic_fold_rerun": true,
+  "site_baseline_uses_test_labels": false,
+  "maximum_pair_decomposition_error": 1.1102230246251565e-16,
+  "deterministic_model_rerun": true,
+  "status": "pass"
+}

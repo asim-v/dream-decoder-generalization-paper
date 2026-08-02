@@ -1,0 +1,191 @@
+analysis,stage,feature_family,weighting,estimand,estimate,ci_low,ci_high,valid_bootstraps,n_labs,n_participants,n_positive,n_negative,n_within_pairs
+eeg_model,NREM,Catch22 broadband (published),record,pooled,0.5150709901800328,0.4810846123257444,0.548257391236986,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),record,site_macro,0.48893292797359306,0.4437088063462494,0.5358510905920246,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),record,within_pair_weighted,0.4790790844261638,0.4480968020680808,0.509531548735758,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),record,site_macro_fold_conditioned,0.5093649749911503,0.46008842211685885,0.5590368123424571,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),record,within_pair_weighted_fold_conditioned,0.49635588476974196,0.4649329360966175,0.529481889114803,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),participant_equal,pooled,0.5120930883054655,0.46385146521168574,0.5610819463382836,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),participant_equal,site_macro,0.49301260545635095,0.44611897164238834,0.5405423783196966,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),participant_equal,within_pair_weighted,0.4895398716573569,0.4371565893117024,0.5424846651528741,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),participant_equal,site_macro_fold_conditioned,0.5136574933195324,0.4641456675224257,0.562240944050922,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 broadband (published),participant_equal,within_pair_weighted_fold_conditioned,0.5050706566971366,0.4525709493601296,0.5570538634443971,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),record,pooled,0.5444259410801965,0.5075915895104054,0.5815948805156701,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),record,site_macro,0.4953207874335227,0.457922988300779,0.536055961132762,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),record,within_pair_weighted,0.5016025213001789,0.4663908833993488,0.5372021371367997,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),record,site_macro_fold_conditioned,0.5102943219537117,0.4674570074848038,0.5515855899453741,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),record,within_pair_weighted_fold_conditioned,0.5075919067297043,0.46918468942062214,0.5387154153343582,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),participant_equal,pooled,0.5332415773453714,0.49187590314714386,0.5765361145113103,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),participant_equal,site_macro,0.5053223764633066,0.46540635537444686,0.5468565992458609,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),participant_equal,within_pair_weighted,0.5126167520804978,0.4704127075935379,0.5579466055359029,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),participant_equal,site_macro_fold_conditioned,0.5231788905861381,0.4794560084478077,0.5675836294707998,2000,4,117,470,260,37441
+eeg_model,NREM,Catch22 filtered (adapted),participant_equal,within_pair_weighted_fold_conditioned,0.5301890206648338,0.4878298237349397,0.5782133712754406,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,record,pooled,0.47347033551554835,0.443612493093186,0.5054509353836991,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,record,site_macro,0.45200036628605256,0.41554918688425824,0.4931317403541244,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,record,within_pair_weighted,0.46266659544349775,0.4353311259964907,0.4969022134399929,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,record,site_macro_fold_conditioned,0.4718053506822969,0.4362220863604292,0.5195264138433621,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,record,within_pair_weighted_fold_conditioned,0.482434411880292,0.4514970997217106,0.522127963251489,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,participant_equal,pooled,0.4609099475888418,0.4213300299468336,0.5031642416780171,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,participant_equal,site_macro,0.450790556625869,0.4137670497028368,0.4936084587670002,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,participant_equal,within_pair_weighted,0.45122379739584445,0.4118600184649791,0.49778296445721404,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,participant_equal,site_macro_fold_conditioned,0.47140408138516515,0.4333490808295275,0.5183746654434883,2000,4,117,470,260,37441
+eeg_model,NREM,Log-Euclidean domain alignment,participant_equal,within_pair_weighted_fold_conditioned,0.4698676221083463,0.4311820621553925,0.5209000700905161,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),record,pooled,0.5337414075286415,0.4997889023908616,0.5694622235705668,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),record,site_macro,0.5103857010913123,0.4613496501726448,0.5592176734776741,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),record,within_pair_weighted,0.49759421489810635,0.46187901639859097,0.5364128203424366,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),record,site_macro_fold_conditioned,0.5240093751254968,0.47287567928080526,0.5768555692491826,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),record,within_pair_weighted_fold_conditioned,0.5089108144478451,0.4710122318582159,0.5514098787130445,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),participant_equal,pooled,0.5320356198384414,0.4778161382919723,0.5841920069000663,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),participant_equal,site_macro,0.5067541656285113,0.45683587943636145,0.5575378979345782,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),participant_equal,within_pair_weighted,0.5073862698522288,0.4514905298088083,0.5636091063720132,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),participant_equal,site_macro_fold_conditioned,0.5203272769317889,0.4693601280178917,0.5760802708746939,2000,4,117,470,260,37441
+eeg_model,NREM,PSD (published),participant_equal,within_pair_weighted_fold_conditioned,0.5165241677520725,0.464341704858833,0.5739039593241076,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,record,pooled,0.5080787643207857,0.4697071785379512,0.5449561048101411,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,record,site_macro,0.4689268388266058,0.4327178526054902,0.5089850810837395,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,record,within_pair_weighted,0.4640547795197778,0.43344009628245317,0.4991873748759215,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,record,site_macro_fold_conditioned,0.4978921727167648,0.45887339262910104,0.5417077961723707,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,record,within_pair_weighted_fold_conditioned,0.4876594300413238,0.4509921838364862,0.5284104795434026,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,participant_equal,pooled,0.4963532029620373,0.45075005457266026,0.5412717299719265,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,participant_equal,site_macro,0.4616361948499317,0.4226912998098745,0.5035295245509402,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,participant_equal,within_pair_weighted,0.4690547140502122,0.4282664171116749,0.5115721225730784,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,participant_equal,site_macro_fold_conditioned,0.49071505505457963,0.4490784107720815,0.5378792614825509,2000,4,117,470,260,37441
+eeg_model,NREM,Riemannian covariance,participant_equal,within_pair_weighted_fold_conditioned,0.4955939817626076,0.4528225919649163,0.5430527390613411,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,record,pooled,0.5332862111292964,0.5019034191432034,0.5654780414459788,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,record,site_macro,0.5132476375828592,0.4725662755774377,0.5594771791892501,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,record,within_pair_weighted,0.5248177132021047,0.49528638767657546,0.5549905080219694,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,record,site_macro_fold_conditioned,0.5334545042752872,0.48759365960134965,0.5795010813110717,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,record,within_pair_weighted_fold_conditioned,0.5395791404175251,0.5033657734436375,0.5744458333571015,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,participant_equal,pooled,0.5145798064116539,0.4678876829030404,0.5669143198688691,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,participant_equal,site_macro,0.5141681916487335,0.47090210278135497,0.5614496254085335,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,participant_equal,within_pair_weighted,0.5118870463120525,0.4654158077010343,0.5649785723396179,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,participant_equal,site_macro_fold_conditioned,0.5349833699758555,0.48805483733967775,0.5819109783323871,2000,4,117,470,260,37441
+eeg_model,NREM,Surrogate-normalized irreversibility,participant_equal,within_pair_weighted_fold_conditioned,0.5305009412005416,0.4832137099988998,0.5837650246529571,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,record,pooled,0.5134099836333877,0.47917825021063726,0.5499384868942828,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,record,site_macro,0.49080830141084447,0.446207594478858,0.5377621296111356,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,record,within_pair_weighted,0.5081307924467829,0.47342768075590125,0.5419609666679064,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,record,site_macro_fold_conditioned,0.5058206722853004,0.45372458191721143,0.5527122461757781,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,record,within_pair_weighted_fold_conditioned,0.5217307165569065,0.47912692606943535,0.5602666128842807,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,participant_equal,pooled,0.4911941037005961,0.4411428908680154,0.5451957146361167,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,participant_equal,site_macro,0.4962200142442561,0.4507135770833795,0.5432564612918912,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,participant_equal,within_pair_weighted,0.4904247804069878,0.4391959189701092,0.541690403979166,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,participant_equal,site_macro_fold_conditioned,0.5099776603588247,0.45969545544022694,0.5581750758872734,2000,4,117,470,260,37441
+eeg_model,NREM,Temporal irreversibility,participant_equal,within_pair_weighted_fold_conditioned,0.5031991090591653,0.45093916440841875,0.5550620256401817,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,record,pooled,0.563913666121113,0.5112862883785088,0.6163477024865516,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,record,site_macro,0.38628609291715515,0.36517576801759205,0.4123957676386896,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,record,within_pair_weighted,0.4112396837691301,0.38132553824083637,0.44516865922938037,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,record,site_macro_fold_conditioned,0.5,0.5,0.5,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,record,within_pair_weighted_fold_conditioned,0.5,0.5,0.5,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,participant_equal,pooled,0.512957304420367,0.4601828996108785,0.5670838488899653,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,participant_equal,site_macro,0.39026917542304146,0.36960016923969263,0.413682583869691,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,participant_equal,within_pair_weighted,0.39576095703852626,0.38004909881430304,0.41548105269700036,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,participant_equal,site_macro_fold_conditioned,0.5,0.5,0.5,2000,4,117,470,260,37441
+site_only_record_prevalence,NREM,No EEG features,participant_equal,within_pair_weighted_fold_conditioned,0.5,0.5,0.5,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,record,pooled,0.5467176759410802,0.4987218592290987,0.5938360510893375,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,record,site_macro,0.3963155773076473,0.37570678876532154,0.4187437952454804,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,record,within_pair_weighted,0.4223204508426591,0.3960271503489747,0.4511838771361925,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,record,site_macro_fold_conditioned,0.5,0.5,0.5,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,record,within_pair_weighted_fold_conditioned,0.5,0.5,0.5,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,participant_equal,pooled,0.49968349269500145,0.44735276461289447,0.5546030526198171,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,participant_equal,site_macro,0.38283542316035135,0.35887907381612766,0.4121652845361486,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,participant_equal,within_pair_weighted,0.38969844356842703,0.37048036228622516,0.4121389967300781,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,participant_equal,site_macro_fold_conditioned,0.5,0.5,0.5,2000,4,117,470,260,37441
+site_only_participant_prevalence,NREM,No EEG features,participant_equal,within_pair_weighted_fold_conditioned,0.5,0.5,0.5,2000,4,117,470,260,37441
+eeg_model,REM,Catch22 broadband (published),record,pooled,0.5954950289975145,0.5252768626532645,0.6611221129610779,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),record,site_macro,0.3985647389731284,0.34402667535779596,0.5214464237741773,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),record,within_pair_weighted,0.4745568600368324,0.391375959310537,0.5588878323402241,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),record,site_macro_fold_conditioned,0.44532189773717273,0.386177861058688,0.5567878941734468,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),record,within_pair_weighted_fold_conditioned,0.5134458276599884,0.41982048014774365,0.6013586980246644,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),participant_equal,pooled,0.546550637004345,0.46148227560648397,0.6318080310872156,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),participant_equal,site_macro,0.3949023720883452,0.33769547025345137,0.516743342715038,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),participant_equal,within_pair_weighted,0.4876344216106101,0.3878196140794401,0.5883799168162164,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),participant_equal,site_macro_fold_conditioned,0.4313407404205144,0.3718542210919596,0.5484275124355649,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 broadband (published),participant_equal,within_pair_weighted_fold_conditioned,0.5176294033320237,0.4200013290786923,0.6188557077941192,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),record,pooled,0.6285711819939244,0.5666714230004412,0.7013796376685023,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),record,site_macro,0.4976758035539447,0.439272445379614,0.5948199348870181,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),record,within_pair_weighted,0.49775552486187846,0.4400832714444857,0.5762700441904964,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),record,site_macro_fold_conditioned,0.5553512775897973,0.5021981238793022,0.6442395375168892,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),record,within_pair_weighted_fold_conditioned,0.551667963431239,0.5011034624963405,0.6430409305649698,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),participant_equal,pooled,0.652739855120849,0.5632909589870042,0.7311908810649941,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),participant_equal,site_macro,0.5142493408015152,0.45057866917826084,0.5985762407598321,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),participant_equal,within_pair_weighted,0.5570592189558499,0.45089546478759057,0.6654133569382882,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),participant_equal,site_macro_fold_conditioned,0.5736371439246868,0.5163273080781937,0.6513328637384894,2000,4,87,284,51,4344
+eeg_model,REM,Catch22 filtered (adapted),participant_equal,within_pair_weighted_fold_conditioned,0.6011182926940157,0.49626575597469025,0.7022123103292283,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,record,pooled,0.5910107705053853,0.5235874132866014,0.6574737692584736,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,record,site_macro,0.4913819824538068,0.4108472653086019,0.6065947854392408,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,record,within_pair_weighted,0.5123503683241253,0.44151400328627133,0.5780491009828229,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,record,site_macro_fold_conditioned,0.5187763033717377,0.44748873401909145,0.609485449559926,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,record,within_pair_weighted_fold_conditioned,0.5436199183038319,0.46349293338107095,0.6177593220093759,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,participant_equal,pooled,0.5537788980449119,0.4634062310428972,0.6415473754107497,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,participant_equal,site_macro,0.5061863961607329,0.4117609171439166,0.6076832941649815,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,participant_equal,within_pair_weighted,0.5191545341654724,0.41069152905335826,0.6225952594263147,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,participant_equal,site_macro_fold_conditioned,0.5231449812115518,0.44733932674120286,0.5995964156784914,2000,4,87,284,51,4344
+eeg_model,REM,Log-Euclidean domain alignment,participant_equal,within_pair_weighted_fold_conditioned,0.5471144951926743,0.4339263494074521,0.653142273249144,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),record,pooled,0.570664181165424,0.5064964313578589,0.6327420698581047,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),record,site_macro,0.4470652366279091,0.3750162737384481,0.5626092476298066,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),record,within_pair_weighted,0.45805709023941066,0.3750929900471085,0.5321085050559125,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),record,site_macro_fold_conditioned,0.4749982836785076,0.40899202584573674,0.5858651704050661,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),record,within_pair_weighted_fold_conditioned,0.49951371328535304,0.4159096661272593,0.5853214269195715,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),participant_equal,pooled,0.5989500517622559,0.5163442540288642,0.6753884015981483,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),participant_equal,site_macro,0.46293987986124135,0.375087265679797,0.5687720333838489,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),participant_equal,within_pair_weighted,0.5666575970423472,0.47064900919274477,0.6580775167062672,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),participant_equal,site_macro_fold_conditioned,0.4881823504769172,0.4178353994565546,0.5911960800668139,2000,4,87,284,51,4344
+eeg_model,REM,PSD (published),participant_equal,within_pair_weighted_fold_conditioned,0.5918449866505301,0.49569136874510283,0.6791194926615928,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,record,pooled,0.6120425987296326,0.5455229648910593,0.6791955295267049,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,record,site_macro,0.4948528503788928,0.42146623135230143,0.5939077714076186,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,record,within_pair_weighted,0.5200621546961326,0.44941735795895776,0.601170986742023,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,record,site_macro_fold_conditioned,0.534944477591335,0.4676761701631444,0.6208020879355008,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,record,within_pair_weighted_fold_conditioned,0.5527621085391947,0.4722669214318174,0.6537336658491572,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,participant_equal,pooled,0.5738355793700792,0.4785640043619055,0.667077984031176,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,participant_equal,site_macro,0.49949659323248286,0.4163789760105917,0.5868742279452687,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,participant_equal,within_pair_weighted,0.5124948699356479,0.39781795892650074,0.6294471914446301,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,participant_equal,site_macro_fold_conditioned,0.5251417889424228,0.44696938026976346,0.6022691344500837,2000,4,87,284,51,4344
+eeg_model,REM,Riemannian covariance,participant_equal,within_pair_weighted_fold_conditioned,0.5401211898131623,0.4245587277213561,0.6570520028088404,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,record,pooled,0.6037109914388291,0.5257578211205094,0.677424149232378,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,record,site_macro,0.5644197886993501,0.48615627444434517,0.6419233115769979,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,record,within_pair_weighted,0.5979051565377532,0.4937660140983378,0.6934674381181715,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,record,site_macro_fold_conditioned,0.6060568240382274,0.5261149581592135,0.6823833898490969,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,record,within_pair_weighted_fold_conditioned,0.6285255786811904,0.508266165764947,0.7298499769081588,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,participant_equal,pooled,0.5742711087421488,0.4763323800841062,0.6655852302815778,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,participant_equal,site_macro,0.5498602591995033,0.47181193748820005,0.6333390576406216,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,participant_equal,within_pair_weighted,0.5651382085809498,0.4538574862501436,0.6711037814195675,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,participant_equal,site_macro_fold_conditioned,0.5936804236504276,0.5157082989732895,0.672408703168908,2000,4,87,284,51,4344
+eeg_model,REM,Surrogate-normalized irreversibility,participant_equal,within_pair_weighted_fold_conditioned,0.615469566893485,0.5042683866966224,0.7178930644526845,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,record,pooled,0.5818213200773268,0.5121132976812791,0.6516319662027593,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,record,site_macro,0.5578672642172565,0.47013464054438997,0.6378991032568618,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,record,within_pair_weighted,0.5648077808471454,0.4824776440358447,0.6532193136177488,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,record,site_macro_fold_conditioned,0.5944743320435559,0.5185927837296361,0.6688236091957134,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,record,within_pair_weighted_fold_conditioned,0.5946070803345652,0.4953806571747683,0.7007737231068986,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,participant_equal,pooled,0.5747142887522045,0.47192111471850906,0.6787110224758578,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,participant_equal,site_macro,0.5544698701619183,0.4679120772139368,0.6399316309881096,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,participant_equal,within_pair_weighted,0.5713663174891409,0.45755532214595995,0.6811728206446133,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,participant_equal,site_macro_fold_conditioned,0.5948449714864196,0.5164944848157789,0.6697266807307657,2000,4,87,284,51,4344
+eeg_model,REM,Temporal irreversibility,participant_equal,within_pair_weighted_fold_conditioned,0.6038835002639068,0.48662110842616774,0.7092824099158894,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,record,pooled,0.6868233913283623,0.6105062023017596,0.7668108259410044,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,record,site_macro,0.301100653179116,0.2734633796902945,0.35745597204122154,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,record,within_pair_weighted,0.3712707182320442,0.3227237697261527,0.42572159856445413,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,record,site_macro_fold_conditioned,0.5,0.5,0.5,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,record,within_pair_weighted_fold_conditioned,0.5,0.5,0.5,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,participant_equal,pooled,0.6009327628503643,0.5368283337752148,0.663383143868308,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,participant_equal,site_macro,0.3002239010610415,0.2687307747249891,0.35172564449258,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,participant_equal,within_pair_weighted,0.3194145520036659,0.28752098458198344,0.3558575419844337,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,participant_equal,site_macro_fold_conditioned,0.5,0.5,0.5,2000,4,87,284,51,4344
+site_only_record_prevalence,REM,No EEG features,participant_equal,within_pair_weighted_fold_conditioned,0.5,0.5,0.5,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,record,pooled,0.6886202016017676,0.6125852127110043,0.7684721575567344,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,record,site_macro,0.30033755523596284,0.2768488478074123,0.3602035126303649,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,record,within_pair_weighted,0.37433241252302024,0.324715042329028,0.4270543080398675,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,record,site_macro_fold_conditioned,0.5,0.5,0.5,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,record,within_pair_weighted_fold_conditioned,0.5,0.5,0.5,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,participant_equal,pooled,0.6080345321700726,0.5404039544473556,0.6711674690437461,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,participant_equal,site_macro,0.2932190298360228,0.26845210262404356,0.3483306357046542,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,participant_equal,within_pair_weighted,0.3161747397619929,0.2859455293884665,0.352410660181012,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,participant_equal,site_macro_fold_conditioned,0.5,0.5,0.5,2000,4,87,284,51,4344
+site_only_participant_prevalence,REM,No EEG features,participant_equal,within_pair_weighted_fold_conditioned,0.5,0.5,0.5,2000,4,87,284,51,4344
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),record,pooled,0.5604166666666666,0.49453564197097377,0.638053571589005,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),record,site_macro,0.5563728382540756,0.4751361717742621,0.6403507156559196,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),record,within_pair_weighted,0.513964303670186,0.45694894439362266,0.5946288839081422,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),record,site_macro_fold_conditioned,0.6013479549614956,0.5203621891444217,0.6878896915681981,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),record,within_pair_weighted_fold_conditioned,0.5634304719670573,0.5099302158742581,0.6593282317490063,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),participant_equal,pooled,0.5934833782247675,0.4958483044062188,0.6799832800103309,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),participant_equal,site_macro,0.5613854657699602,0.48423145986561744,0.6408665951707551,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),participant_equal,within_pair_weighted,0.56212496048515,0.4529457580458608,0.6681093362387118,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),participant_equal,site_macro_fold_conditioned,0.6146429883935773,0.532937767109785,0.691604530767728,2000,3,69,162,48,3978
+sensitivity_rem_excluding_turku,REM,Catch22 filtered (adapted),participant_equal,within_pair_weighted_fold_conditioned,0.6058344904150453,0.4929437512121286,0.7080282066637564,2000,3,69,162,48,3978

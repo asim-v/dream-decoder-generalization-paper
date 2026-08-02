@@ -1,0 +1,26 @@
+{
+  "seed": 20260802,
+  "bootstraps": 2000,
+  "primary": {
+    "NREM": {
+      "feature_family": "PSD (published)",
+      "pooled_participant_held_out_auroc": 0.5337414075286415,
+      "site_macro_auroc": 0.5103857010913123,
+      "within_pair_weighted_auroc": 0.49759421489810635,
+      "site_only_pooled_auroc": 0.563913666121113,
+      "site_only_within_pair_weighted_auroc": 0.4112396837691301,
+      "fold_conditioned_within_site_auroc": 0.5089108144478451,
+      "site_only_fold_conditioned_within_site_auroc": 0.5
+    },
+    "REM": {
+      "feature_family": "Catch22 filtered (adapted)",
+      "pooled_participant_held_out_auroc": 0.6285711819939244,
+      "site_macro_auroc": 0.4976758035539447,
+      "within_pair_weighted_auroc": 0.49775552486187846,
+      "site_only_pooled_auroc": 0.6868233913283623,
+      "site_only_within_pair_weighted_auroc": 0.3712707182320442,
+      "fold_conditioned_within_site_auroc": 0.551667963431239,
+      "site_only_fold_conditioned_within_site_auroc": 0.5
+    }
+  }
+}

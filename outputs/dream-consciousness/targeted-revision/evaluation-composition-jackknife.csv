@@ -1,0 +1,17 @@
+stage,feature_family,removed_evaluation_dataset,weighting,estimate,n_records
+NREM,PSD (published),DeGenaro_YoungAdults,record,0.5332049517950932,698
+NREM,PSD (published),DeGenaro_YoungAdults,participant_equal,0.5410073438053082,698
+NREM,PSD (published),DeGenearoMA,record,0.5672973860362651,449
+NREM,PSD (published),DeGenearoMA,participant_equal,0.5423966692271881,449
+NREM,PSD (published),SiclariMA,record,0.5463972004986966,499
+NREM,PSD (published),SiclariMA,participant_equal,0.5462213777657626,499
+NREM,PSD (published),Zhang_Wamsley_2019,record,0.4834198544742777,544
+NREM,PSD (published),Zhang_Wamsley_2019,participant_equal,0.4911719703144251,544
+REM,Catch22 filtered (adapted),DeGenaro_YoungAdults,record,0.6182280118255729,305
+REM,Catch22 filtered (adapted),DeGenaro_YoungAdults,participant_equal,0.7029729750623268,305
+REM,Catch22 filtered (adapted),DeGenearoMA,record,0.7344411092052602,181
+REM,Catch22 filtered (adapted),DeGenearoMA,participant_equal,0.6736346192160317,181
+REM,Catch22 filtered (adapted),Zhang_Wamsley_2019,record,0.6021156589976815,309
+REM,Catch22 filtered (adapted),Zhang_Wamsley_2019,participant_equal,0.6265495882466686,309
+REM,Catch22 filtered (adapted),rem_Turku,record,0.5604166666666666,210
+REM,Catch22 filtered (adapted),rem_Turku,participant_equal,0.5934833782247675,210
